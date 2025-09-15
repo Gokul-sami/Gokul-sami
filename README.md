@@ -19,7 +19,7 @@
 ## 📱 Scan Me
 
 <p align="center">
-  <img src="assets/qrcode.jpg" width="200" alt="QR Code"/>
+  <img src="assets/qrcode.png" width="200" alt="QR Code"/>
 </p>
 
 
