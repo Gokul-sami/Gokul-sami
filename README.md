@@ -9,8 +9,8 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Computer Science student who believes **Ctrl+C & Ctrl+V** is a survival skill  
-- ⚡ Interested in **AI, Web Dev, Mobile Apps & Cloud Computing**  
+- 🎓 Computer Science student who believes **Ctrl+C & Ctrl+V** is a survival skill 😂 
+- ⚡ Interested in **Web Dev, Mobile Apps & Cloud Computing**  
 - 💡 Fun fact: I write code that works... after **Stack Overflow consultation** 😅  
 - 🎯 Goal: To build projects that make people say: *“Wait… you did this?!”*
 
@@ -19,7 +19,7 @@
 ## ⚒️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,flutter,nodejs,mysql,html,css,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,mysql,git,github,springboot,jenkins,postman" />
 </p>
 
 ---
@@ -53,9 +53,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
+  <a href="https://www.linkedin.com/in/Gokul_sami" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:gokulpandiyan6@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/Gokul-sami/Portfolio/" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
 </p>
 
 ---
