@@ -19,7 +19,11 @@
 ## 📱 Scan
 
 <p align="center">
-  <img src="assets/qrcode.png" width="200" alt="QR Code"/>
+  <img src="assets/qrcode.png" 
+       alt="QR Code" 
+       width="200" 
+       style="border-radius: 15px;" 
+  />
 </p>
 
 
