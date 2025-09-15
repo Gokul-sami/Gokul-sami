@@ -28,11 +28,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gokul-sami&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sami&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gokul-sami&theme=tokyonight&hide_border=true"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sami&layout=compact&theme=tokyonight" height="180em"/> -->
 </p>
 
 ---
@@ -55,7 +51,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/Gokul_sami" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:gokulpandiyan6@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Gokul-sami/Portfolio/" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
 </p>
 
 ---
