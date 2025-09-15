@@ -19,7 +19,7 @@
 ## ⚒️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,mysql,git,github,spring boot,jenkins,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,mysql,git,github,spring,jenkins,postman" />
 </p>
 
 ---
