@@ -1,48 +1,66 @@
-# 👋 Hi, I'm Gokul Sami  
+<h1 align="center">Hey 👋, I'm Gokul Sami</h1>
+<h3 align="center">🚀 Full-time Student | Part-time Coder | Debugging Enthusiast 🐞</h3>
 
-🚀 Passionate about technology, coding, and building creative projects that make an impact.  
-💡 Always exploring new ideas, from AI and web apps to mobile development.  
-
----
-
-## 🌟 About Me  
-- 🎓 Computer Science student with interests in **AI, Web Development, and App Development**  
-- 💻 Experienced with **Java, Python, JavaScript, React, and Flutter**  
-- ⚡ Love turning ideas into reality through code  
-- 🌱 Currently learning **Cloud Computing & System Design**  
-- 🎯 Goal: To contribute to **innovative projects** and grow as a full-stack developer  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+%7C+Developer+%7C+Tech+Explorer;I+turn+coffee+into+code...+sometimes+bugs;Always+learning+something+new!">
+</p>
 
 ---
 
-## 🔧 Tech Stack  
-
-**Languages:**  
-`Java` · `Python` · `C` · `JavaScript`  
-
-**Web & App:**  
-`React` · `React Native` · `Flutter` · `HTML` · `CSS`  
-
-**Backend & DB:**  
-`Node.js` · `Flask` · `MySQL`  
-
-**Tools:**  
-`Git & GitHub` · `Postman` · `VS Code` · `XAMPP`  
+## 🧑‍💻 About Me
+- 🎓 Computer Science student who believes **Ctrl+C & Ctrl+V** is a survival skill  
+- ⚡ Interested in **AI, Web Dev, Mobile Apps & Cloud Computing**  
+- 💡 Fun fact: I write code that works... after **Stack Overflow consultation** 😅  
+- 🎯 Goal: To build projects that make people say: *“Wait… you did this?!”*
 
 ---
 
-## 📊 GitHub Stats  
+## ⚒️ Tech Stack & Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokul-sami&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sami&layout=compact&theme=radical)  
-
----
-
-## 🌐 Connect With Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📧 [Email Me](mailto:your-email@example.com)  
-- 🌍 [Portfolio](https://your-portfolio-link.com)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,flutter,nodejs,mysql,html,css,git,github,vscode,postman" />
+</p>
 
 ---
 
-✨ _"Code is like art – the more you practice, the more beautiful it becomes."_  
+## 📊 GitHub Stats & Fun Stuff
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gokul-sami&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul-sami&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gokul-sami&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎮 Fun Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+- 🕹️ Favorite Debugging Style: `printf()` & praying 🙏  
+- 🎵 Coding Playlist: Lo-fi + Bug-fixes  
+- 🐉 Building: A dragon game (because why not 🐲)  
+- ☕ Superpower: Surviving college with **coffee + deadlines**  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:your-email@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/><br/>
+  <b>"Commit, Push, Pray 🙌"</b>
+</p>
